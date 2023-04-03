@@ -1,5 +1,7 @@
 # Fake News Detection
 
+### Data from https://www.kaggle.com/datasets/mohammadaflahkhan/fake-news-dataset-combined-different-sources
+
 ## 1. Data preparation
 
 ### Importing Libraries
